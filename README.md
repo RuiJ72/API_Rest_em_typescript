@@ -1,4 +1,4 @@
-# API REST com TypeORM #
+### API REST com TypeORM ###
 
 # A presente API, foi implementada em TypeScript usando TypeORM #
 
@@ -8,7 +8,7 @@
 
 # Para testar o projeto basta baixar, e instalar todas as bibliotecas rodando npm i #
 
-# O arquivo tsconfig.json contém as configurações necessáias para a tipagem, uma vez que se trata de TypeScript "
+# O arquivo tsconfig.json contém as configurações necessárias para a tipagem, uma vez que se trata de TypeScript "
 
 # Endpoints #
 
